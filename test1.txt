@@ -1,2 +1,3 @@
+this is new line i have added via vim cmd 
 test new
 this is  a new line
