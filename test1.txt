@@ -1,5 +1,5 @@
 this is new line i have added via vim cmd 
 test new
 this is  a new line
-
+I am bad
 i am only on develop
